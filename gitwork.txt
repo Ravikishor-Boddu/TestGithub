@@ -1,1 +1,2 @@
 hi this file need to push to github repository
+some changes made after commit to git
